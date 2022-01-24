@@ -16,7 +16,7 @@ Application includes JWT token creation & validation based on user defined user 
 
 
 ## Debugger
-- You can use [jwt.io](https://jwt.io) to encode your token response.
+- You can use [jwt.io](https://jwt.io) to decode your token response.
 - Creation and Expiration time is available here.
 
 
