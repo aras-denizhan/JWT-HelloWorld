@@ -1,4 +1,4 @@
-# JWT - Hello World
+# Spring - JWT
 
 Application includes JWT token creation & validation based on user defined user details.
 
